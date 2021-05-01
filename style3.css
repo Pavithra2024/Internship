@@ -1,0 +1,28 @@
+.sample1
+{
+display: inline;
+color:blue;
+}
+.sample2
+{
+display: block;
+color:blue;
+}
+
+#hello
+{
+    display:flex;
+    background-color: lightblue;
+    padding:3rem;
+      
+}
+.col1{
+    padding:10%;
+}
+.col2{
+    padding:10%;
+}
+h1{
+    display:grid;
+    place-items: center;
+}

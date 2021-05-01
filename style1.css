@@ -1,7 +1,22 @@
 #maincontent{
     background: #414141;
 }
+.navlist{
+    display: flex;
+    flex-direction: column;
+    background-color:violet;
+    align-items: center;
+    justify-content: center;
+   
+}
+.navlist li {
+    margin: 1rem;
+    list-style: none;
+}
+.navlist a{
+    color:black;
 
+}
 .container
 {
     height: 100vh;
@@ -22,11 +37,21 @@
 }
 .col1,.col2,.col3{
     margin:auto;
+
+}
+.col1{
+    margin:1rem;
+    display: grid;
+    place-items: center;
+
 }
 .col3
 {
-    background-color: lightgrey;
-    width=50%;
+    background-color: lightseagreen;
+    margin:1rem;
+    height: 500px;
+    align-items: center;
+   
 }
 h1{
     display:grid;
