@@ -1,0 +1,21 @@
+h2{
+  border-style: double ;
+  border-color:royalblue;
+  
+}
+#center{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+height: 50%;
+}
+h4{
+  outline-style: dotted;
+
+
+}
+h3{
+  color: blueviolet;
+}
+
