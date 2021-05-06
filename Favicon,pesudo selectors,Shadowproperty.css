@@ -1,0 +1,36 @@
+#click:hover {
+        color: hotpink;
+      }
+.highlight:hover{
+    color:aquamarine
+}
+i:first-child {
+        color: blue;
+      } 
+ .container::first-letter {
+        color: #ff0000;
+        font-size: xx-large;
+        text-align: center;
+        
+      }
+      h3 {
+        background-color:lightblue;
+        color: white;
+        padding: 25px;
+        text-align: center;
+      }
+      
+      h3:hover {
+        background-color:red;
+      }
+      h2{
+        border: 1px solid;
+        box-sizing: border-box;
+        padding: 10px;
+        box-shadow: 5px 10px #888888;
+      }
+    h1{
+          text-shadow:5px 5px 10px lightseagreen;
+         
+      }
+      
