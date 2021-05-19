@@ -24,4 +24,12 @@ nav{
 }
 #sample{
     margin:10%;
+    
+}
+#footer{
+    background-color: black;
+
+}
+h1,h3,p{
+    color:white;
 }
