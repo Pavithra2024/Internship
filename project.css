@@ -6,6 +6,9 @@
     background-color:lightblue;
   
 }
+@media (min-width:768px) {
+    
+}
 .navlist{
     display: flex;
     flex-direction:row;
@@ -23,6 +26,7 @@
 }
 nav{
     margin: auto;
+}
 }
 #sample{
     margin:10%;
