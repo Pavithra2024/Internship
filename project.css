@@ -1,7 +1,4 @@
 
-    
-
-
 #intro{
     padding:1rem;
     margin:auto;
@@ -10,7 +7,9 @@
     background-color:lightblue;
   
 }
-@media  (min-width:768px) {
+@media(min-width:768px) {
+    
+
 .navlist{
     display: flex;
     flex-direction:row;
@@ -40,5 +39,22 @@ nav{
 }
 h1,h3,p{
     color:white;
+}
+
+.container{
+    display: flex;
+    text-align: center  ;
+    padding: 5%;
+}
+.container1{
+    display: flex;
+    text-align: center  ;
+    padding: 10%;
+}
+.container img{
+    border:5px solid #555;
+}
+.container1 img{
+    border:5px solid #555;
 }
 }
